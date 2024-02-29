@@ -1,1 +1,1 @@
-# crypto-notifier
+# crypto currency notifier
