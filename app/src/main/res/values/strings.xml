@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CryptoNotify</string>
+    <string-array name="coins">
+        <item>bitcoin</item>
+        <item>ethereum</item>
+        <item>solana</item>
+        <item>polygon</item>
+        <item>dogecoin</item>
+    </string-array>
+</resources>
